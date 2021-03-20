@@ -6,3 +6,7 @@ Start with BIOS reset to defaults and then disable all kind of security and TPM.
 
 
 Use GENSMBIOS and generate a new keys to the plist and enjoy
+
+specs :
+i3 7th gen
+hd 620 graphics
